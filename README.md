@@ -1,6 +1,6 @@
-# digits
+# Bangla Handwritten Number Reconition
 
-A new Flutter project.
+A new Flutter project deployed with CNN model
 
 ## Getting Started
 
