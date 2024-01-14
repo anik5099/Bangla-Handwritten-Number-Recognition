@@ -1,16 +1,8 @@
 # Bangla Handwritten Number Reconition
 
-A new Flutter project deployed with CNN model
+In this project, We have developed a Flutter app which takes Bangla Handwritten Number Image as input and recognizes the number. We have used Deep Learning to do this task. We first sliced the digits from number and then predicted them.
 
-## Getting Started
+# Dataset
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We have used the BHaND dataset in our project.
+link : https://github.com/SaadatChowdhury/BHaND
