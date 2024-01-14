@@ -9,4 +9,6 @@ link : https://github.com/SaadatChowdhury/BHaND
 
 # Demo of the app
 
-![hi](https://github.com/anik5099/Bangla-Handwritten-Number-Recognition/assets/61835699/6e806891-fcc5-4f17-a132-9f914a71fcb2)
+
+![photo_2024-01-14_23-57-30](https://github.com/anik5099/Bangla-Handwritten-Number-Recognition/assets/61835699/77091e3f-1bcf-4f9e-bb02-c3d116bb9bce)
+![photo_2024-01-14_23-57-22](https://github.com/anik5099/Bangla-Handwritten-Number-Recognition/assets/61835699/2f6fde22-fc7f-4280-af84-ace2ddf6b1fe)
